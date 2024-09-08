@@ -2,4 +2,5 @@
     Sendo assim, o intuito deste site é proporcionar ao usuário um lugar em que possa ver todos as informações, lançamentos, produções, projetos, redes sociais e demais dados de determinado artista que esteja pesquisando, ao invés de buscar separadamente em distintas redes.
     Para este projeto web, apresenta-se como exemplo uma página somente focada em artistas do gênero K-Pop. Embora o propósito do site seja voltado para todo o universo da música, foi construído primeiramente apenas com um gênero musical dado o tempo disponível para desenvolver tal plataforma.
     Também deseja-se que o site agregue ainda mais informações do que as que estão inseridas, direcionando o usuario para os mais variados sites e plataformas de streaming, não somente Spotify e YouTube (esses foram utilizados apenas como exemplos).
-    O site foi construído utilizando HTML, CSS e Javascript. Tem como principal função agregar informação de artistas do mundo da música para facilitar a busca de dados, informações e lançamentos de determinado artista. Espero que gostem!
+    O site foi construído utilizando HTML, CSS e Javascript. Tem como principal função agregar informação de artistas do mundo da música para facilitar a busca de dados, informações e lançamentos de determinado artista. Espero que gostem! 
+    Link Vercel: https://vercel.com/lucas-projects-f729ff8e/ksound

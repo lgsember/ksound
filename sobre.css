@@ -1,0 +1,24 @@
+#sobre {
+    padding: 40px 20px; /* Espaçamento interno para a seção */
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo levemente transparente */
+    color: white; /* Cor do texto */
+    max-width: 800px; /* Largura máxima da seção */
+    margin: 0 auto; /* Centraliza a seção */
+    border-radius: 8px; /* Bordas arredondadas */
+  }
+  
+  #sobre h1, #sobre h2 {
+    color: white; /* Cor dos títulos */
+    margin-bottom: 20px; /* Espaço inferior dos títulos */
+  }
+  
+  #sobre hr {
+    border: none;
+    border-top: 2px solid white; /* Cor das linhas */
+    margin: 20px 0; /* Espaçamento das linhas */
+  }
+  
+  #sobre p {
+    margin-bottom: 20px; /* Espaçamento inferior entre parágrafos */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+  }

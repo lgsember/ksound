@@ -1,0 +1,135 @@
+/* Estilos para a seção do artista */
+#artist-info {
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 100%;
+}
+
+#artist-name {
+    font-size: 28px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#artist-description {
+    color: white;
+    margin-bottom: 20px;
+}
+
+#artist-image {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+/* Estilos para seções com cards */
+#members, #discography, #videography {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 100%;
+}
+
+#members h2, #discography h2, #videography h2 {
+    color: white;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* Estilos específicos para a seção de membros */
+#members .cards-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os cards se movam para a linha seguinte */
+    gap: 10px; /* Reduz o espaço horizontal e vertical entre os cards */
+}
+
+#members .card {
+    flex: 1 1 calc(20% - 10px); /* Ajusta a largura dos cards verticais */
+    max-width: 200px; /* Define uma largura máxima para os cards */
+    height: 400px; /* Define uma altura fixa para os cards verticais */
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: column; /* Empilha a imagem e o título verticalmente */
+    margin-bottom: 10px; /* Ajusta o espaço vertical entre os cards */
+}
+
+#members .card-image {
+    width: 100%;
+    height: 60%; /* Define a altura da imagem no card */
+    object-fit: cover;
+}
+
+#members .card-title {
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    font-size: 16px;
+    padding: 10px; /* Ajusta o padding interno do título */
+}
+
+/* Estilos gerais para cards */
+.cards-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os cards se movam para a linha seguinte */
+    gap: 20px;
+}
+
+.card {
+    flex: 1 1 calc(33.333% - 20px); /* Ajusta a largura dos cards */
+    max-width: 300px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: white;
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Estilos para links de redes sociais */
+#social-links {
+    text-align: center;
+    margin: 20px auto;
+}
+
+#social-links h2 {
+    color: white;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icon img {
+    width: 40px;
+    height: 40px;
+}
+
+.link-to-spotify,
+.link-to-youtube {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+    color: #007bff; /* Cor para links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-to-spotify:hover,
+.link-to-youtube:hover {
+    text-decoration: underline;
+}

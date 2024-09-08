@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh; /* Garante que a página tenha a altura mínima da viewport */
-    background-image: url('https://papers.co/wallpaper/papers.co-vy17-line-dark-pattern-background-black-35-3840x2160-4k-wallpaper.jpg'); /* Adiciona a imagem de fundo */
+    background-image: url('https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg'); /* imagem de fundo */
     background-size: cover; /* Faz a imagem cobrir toda a tela */
     background-position: center; /* Centraliza a imagem de fundo */
   }

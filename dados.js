@@ -4,9 +4,9 @@ const artistsData = [
       type: 'boysGroup',
       title: 'Boys Group',
       cards: [
-        { id: 1, image: 'img/boygroup1.jpg', title: 'EXO', link: 'verArtista.html?id=1' },
-        { id: 2, image: 'img/boygroup2.jpg', title: 'Tomorrow x Together', link: 'verArtista.html?id=2' },
-        { id: 3, image: 'img/boygroup3.jpg', title: 'Enhypen', link: 'verArtista.html?id=3' }
+        { id: 1, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8f7PbAPEIVkEX5oNytPrDAKQwyodnkGuXg&s', title: 'EXO', link: 'verArtista.html?id=1' },
+        { id: 2, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7PfI31d9wGy127_E4yLntaoc4NPJBmeBdQ&sg', title: 'Tomorrow x Together', link: 'verArtista.html?id=2' },
+        { id: 3, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMn-1pBAmFtQEli4PWlzpCdLk_YPD22FOEg&s', title: 'Enhypen', link: 'verArtista.html?id=3' }
       ]
     },
     {
@@ -14,9 +14,9 @@ const artistsData = [
       type: 'girlsGroup',
       title: 'Girls Group',
       cards: [
-        { id: 4, image: 'img/girlgroup1.jpg', title: 'BlackPink', link: 'verArtista.html?id=4' },
-        { id: 5, image: 'img/girlgroup2.jpg', title: 'LE SSERAFIM', link: 'verArtista.html?id=5' },
-        { id: 6, image: 'img/girlgroup3.jpg', title: 'NewJeans', link: 'verArtista.html?id=6' }
+        { id: 4, image: 'https://pm1.aminoapps.com/6819/9798ae383d0884abfeb4950d7cd4f71364435642v2_00.jpg', title: 'BlackPink', link: 'verArtista.html?id=4' },
+        { id: 5, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNm_mPcJr83MeeO-lmoQMyrKTa7s9xfADXoSlBxpzcz34TLT3VuKI5QCVRDPIX-ASYXpg&usqp=CAU', title: 'LE SSERAFIM', link: 'verArtista.html?id=5' },
+        { id: 6, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNCmMne27uXzguswTZhB0UmfhpsUO87MXzQ&s', title: 'NewJeans', link: 'verArtista.html?id=6' }
       ]
     },
     {
@@ -24,9 +24,9 @@ const artistsData = [
       type: 'soloIdols',
       title: 'Solo Idols',
       cards: [
-        { id: 7, image: 'img/soloidol1.jpg', title: 'JungKook', link: 'verArtista.html?id=7' },
-        { id: 8, image: 'img/soloidol2.jpg', title: 'Jackson Wang', link: 'verArtista.html?id=8' },
-        { id: 9, image: 'img/soloidol3.jpg', title: 'Uhm Jung Hwa', link: 'verArtista.html?id=9' }
+        { id: 7, image: 'https://i.pinimg.com/736x/ef/53/32/ef5332fdb0f8d4be984cc2f46627ae19.jpg', title: 'JungKook', link: 'verArtista.html?id=7' },
+        { id: 8, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16RLtZigzPEk2oBdg3lw_AVCPYmKxiXdBaA&s', title: 'Jackson Wang', link: 'verArtista.html?id=8' },
+        { id: 9, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuAPDj1N36PSFQi4UqqYpklPafq1Dp-nqrw&s', title: 'Uhm Jung Hwa', link: 'verArtista.html?id=9' }
       ]
     }
 ];
